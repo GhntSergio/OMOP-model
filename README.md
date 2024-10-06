@@ -18,4 +18,4 @@ Le OMOP Common Data Model (CDM) est un modèle de données relationnelles conçu
 
 ## 📜 Licence
 
-Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/All-projets/blob/main/OMOP%20model/README.md). Voir le fichier [LICENSE.md](https://github.com/GhntSergio/All-projets/blob/main/OMOP%20model/README.md) pour plus de détails.
+Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/OMOP-model/blob/main/LICENSE). Voir le fichier [LICENSE](https://github.com/GhntSergio/OMOP-model/blob/main/LICENSE) pour plus de détails.
